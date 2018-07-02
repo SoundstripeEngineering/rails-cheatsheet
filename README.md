@@ -1,12 +1,25 @@
-## Ruby on Rails Cheatsheet
+# Table of Contents
 
 Credit to [mdang](https://github.com/mdang) for [creating](https://gist.github.com/mdang/95b4f54cadf12e7e0415) much of this document.
+
+## Table of Contents
+ 1. [Architecture](#architecture)
+ 1. [Creating an Application](#creating-an-application)
+ 1. [Routes](#routes)
+ 1. [Controllers](#controllers)
+ 1. [Models](#models)
+ 1. [Migrations](#migrations)
+ 1. [Scaffolding](#scaffolding)
+ 1. [Rake](#rake)
+ 1. [Path Helpers](#path-helpers)
+ 1. [Asset Pipeline](#asset-pipeline)
+ 1. [Form Helpers](#form-helpers)
 
 ### Architecture
 
 <img src="https://raw.githubusercontent.com/mdang/resources/master/ruby/rails/rails_architecture.png">
 
-### Create a new application
+### Creating an Application
 
 Install the Rails gem if you haven't done so before
 
