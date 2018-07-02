@@ -1,4 +1,4 @@
-# Table of Contents
+# Ruby on Rails Cheatsheet
 
 Credit to [mdang](https://github.com/mdang) for [creating](https://gist.github.com/mdang/95b4f54cadf12e7e0415) much of this document.
 
