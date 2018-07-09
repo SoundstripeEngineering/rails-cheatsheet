@@ -17,7 +17,7 @@ Credit to [mdang](https://github.com/mdang) for [creating](https://gist.github.c
 
 ### Architecture
 
-<img src="https://raw.githubusercontent.com/mdang/resources/master/ruby/rails/rails_architecture.png">
+<img src="https://raw.githubusercontent.com/SoundstripeTech/rails-cheatsheet/master/Rails%20Diagram.png">
 
 ### Creating an Application
 
