@@ -131,7 +131,7 @@ Reference: http://guides.rubyonrails.org/action_controller_overview.html
 
 ### Models
 
-The defactor Rails model cheatsheet: https://devhints.io/rails-models
+A killer Rails model cheatsheet: https://devhints.io/rails-models
 
 Generate a model and create a migration for the table
 
